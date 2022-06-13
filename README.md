@@ -1,7 +1,7 @@
 # Capstone-Project
 Proyecto Capstone
 Grupo 5
-Equipo XX
+Equipo 3
 
 Integrantes:
 Juan Carlos Estrada,
